@@ -1,0 +1,10 @@
+username,date,type,category,amount,note
+vaishali,2026-11-21,income,Salary,5000,
+vaishali,2026-11-21,expense,Food,250,lunch
+vaishali,2026-11-21,expense,Transport,80,metro
+vaishali,2026-08-05,income,Pocket money,5000
+vaishali,2026-08-10,expense,Food,450
+vaishali,2026-09-03,expense,Travel,300
+vaishali,2026-09-15,expense,Shopping,1200
+vaishali,2026-10-07,expense,Food,600
+vaishali,2026-10-20,expense,Travel,250
